@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons in Parliament concerning an illegall writ sent to the High Sheriff of Essex by His Majesty, for the publishing of his late proclamation to forbid all his loving subjects to raise, march, muster or excercise by vertue of any order or ordinance of both Houses of Parliament</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21924</idno><idno type="EEBO-CITATION">11232240</idno>
+  <idno type="VID">204939</idno>
+  <idno type="EEBO-PROQUEST">2240926846</idno>
+  
+            <idno type="STC">Wing E1360</idno>
+            <idno type="OCLC">11232240</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:74)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons in Parliament concerning an illegall writ sent to the High Sheriff of Essex by His Majesty, for the publishing of his late proclamation to forbid all his loving subjects to raise, march, muster or excercise by vertue of any order or ordinance of both Houses of Parliament</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 4p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Norton for Edw. Husbands and Iohn Fanke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 20, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Lords and Commons that this be forth-with printed. H. Elsynge, Cler. Par. D. Com."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204939:1"/>
+            <pb facs="tcp:204939:1"/>
+            <p> A DECLARATION Of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, Concerning an illegall VVritt sent to the High Sheriff of <hi>Essex,</hi> by his Majesty for the publishing of his late Proclamation to forbid all his loving Subjects to raise, march, muster, or exercise by vertue of any Order or Ordinance of both houses of Parliament </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons, that this be forth-with Printed </p>
+                        <closer>
+                           <signed>H. Elsynge. Cler. Par. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed by <hi>A. Norton</hi> for <hi>Edw. Husbands</hi> and <hi>Iohn Franke, June</hi> 20, 1642.</p>
+            <pb facs="tcp:204939:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:204939:2"/>
+            <head>A Declaration of the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, concerning the execu<g ref="char:EOLhyphen"/>tion of the Militia.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>Robert Smith</hi> Esquire, now high Sheriffe of the County of <hi>Essex,</hi> hath late<g ref="char:EOLhyphen"/>ly received a Writ bearing date the twenty seventh day of <hi>May,</hi> in the eighteenth yeer of his now Majesties reign, thereby commanding him to publish a Procla<g ref="char:EOLhyphen"/>mation,
+<pb n="2" facs="tcp:204939:3"/> whereby all his Majesties Subjects be<g ref="char:EOLhyphen"/>longing to the Trained Bands or Militia of this Kingdome, are forbidden to raise, March, Muster, or exercise by vertue of any Order or Ordinance, of one or both houses of Parlia<g ref="char:EOLhyphen"/>ment, without consent or warrant from his Majestie upon paine of punishment according to the Lawes. And whereas the said high She<g ref="char:EOLhyphen"/>riffe hath now addressed himselfe to both hou<g ref="char:EOLhyphen"/>ses of Parliament, for advice and directions therein concerning the said Proclamation to bee contrariant and repugnant to the Ordinance and Iudgement of both houses of Parliament con<g ref="char:EOLhyphen"/>cerning the Militia.</p>
+            <p>It is therefore Declared by the Lords and Commons in Parliament (they intending no<g ref="char:EOLhyphen"/>thing by the said Ordinance, but the protection and securitie of his Majesties person the defence of the Kingdome against Forreigne invasion, and preservation of the publike peace against intestine Rebellions and insurrections here at home, the maintenance of the priviledges and authoritie of Parliament according to the Pro<g ref="char:EOLhyphen"/>testation.</p>
+            <pb n="3" facs="tcp:204939:3"/>
+            <p> That the said Writ is illegall for that by the constitution and policie of this Kingdome, the King by his Proclamation cannot declare the Law contrary to the resolution of any of the inferiour Courts of Iustice, much lesse against the high Court of Parliament. And likewise for that this Writ forbiddeth that to bee done which they are obliged unto by their duty to God, their alleagiance to his Majestie, and the trust reposed in them by the Common-wealth, (the Law having intrusted them to provide for the good and safetie thereof.) And that the said high Sheriffe hath done nothing in forbearing to publish the said Proclamation, but according to his duty, and in obedience to the Order of both Houses. And hee is hereby required not to publish the said Proclamation, or any other Proclamations or Declarations of the like na<g ref="char:EOLhyphen"/>ture, that concerne the Parliament, without first acquainting the said Houses.</p>
+            <p>And it is further declared that the said high Sheriffe, and other Sheriffs of other Counties within this Kingdome of <hi>England,</hi> and the Do<g ref="char:EOLhyphen"/>minion
+<pb n="4" facs="tcp:204939:4"/> of <hi>Wales,</hi> for their obedience to the Or<g ref="char:EOLhyphen"/>ders and Ordinances of Parliament; Or that have, or hereafter shall doe any thing in the execution thereof, shall be protected by the power and authoritie of both the said Houses.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204939:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
